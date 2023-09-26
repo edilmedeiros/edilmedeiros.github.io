@@ -1,9 +1,9 @@
 #-------------------------------
 # Site Settings
 
-title: Avenco
+title: Edil Medeiros
 logo: # You can add own logo. For example '/images/logo.png'.
-description: Avenco – Creative Portfolio Theme for Jekyll
+description: 
 
 menu__settings:
   menu__items:
@@ -31,9 +31,9 @@ cover__image: '/images/37.jpg'
 # Author Settings
 
 author:
-  name: James Clayton
-  title: Hello I’m James Clayton
-  bio: Art Director & Graphic Designer based in Australia, crafting beautiful and functional websites and mobile apps. When I’m not working, I’m probably listening to relaxing music or traveling somewhere.
+  name: Edil Medeiros
+  title: Hello I’m Edil Medeiros
+  bio: I'm an Associate Professor at the <a href="http://www.ene.unb.br/" rel="noopener noreferrer" target="_blank">Electrical Engineering Department</a> at the <a href="https://unb.br/" rel="noopener noreferrer" target="_blank">University of Brasília</a>, in the political capital of Brazil.<br><br>I lecture on several courses ranging from analog to digital electronics, embedded systems, and functional programming. You can find most of them on my <a href="http://youtube.com/profedil" rel="noopener noreferrer" target="_blank">Youtube channel</a> (the videos are in Brazilian Portuguese, though).<br><br>My research interests focus on digital signal processing techniques (in particular, point clouds geometry compression) and model-based engineering design flows.<br><br>On the social side, I was the founder of the Classical Liberal Intitute of the Center-West and of the <a href="https://iflbrasil.com.br/unidades-ifl/ifl-brasilia/" rel="noopener noreferrer" target="_blank">Leadership Development Institute of Brasília</a>.
   image: '/images/01.jpg'
   avatar: '/images/avatar.jpg'
   button__text: See my works
@@ -50,28 +50,28 @@ projects__settings:
 #-------------------------------
 # Testimonials Section
 
-testimonial__title: My Happy <span class="text-span">Clients</span> # Add a 'text-span' class to highlight text.
+# testimonial__title: My Happy <span class="text-span">Clients</span> # Add a 'text-span' class to highlight text.
 
-testimonial-items:
-  - name: "Zaire Baptista"
-    image: "/images/client-1.jpg"
-    designation : "Traveler"
-    content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
+# testimonial-items:
+#   - name: "Zaire Baptista"
+#     image: "/images/client-1.jpg"
+#     designation : "Traveler"
+#     content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
 
-  - name: "Ann Philips"
-    image: "/images/client-2.jpg"
-    designation : "Designer"
-    content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
+#   - name: "Ann Philips"
+#     image: "/images/client-2.jpg"
+#     designation : "Designer"
+#     content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
 
-  - name: "Roger Bergson"
-    image: "/images/client-3.jpg"
-    designation : "CEO, Founder"
-    content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
+#   - name: "Roger Bergson"
+#     image: "/images/client-3.jpg"
+#     designation : "CEO, Founder"
+#     content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
 
-  - name: "Julie Arnold"
-    image: "/images/client-4.jpg"
-    designation : "Full stack developer"
-    content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
+#   - name: "Julie Arnold"
+#     image: "/images/client-4.jpg"
+#     designation : "Full stack developer"
+#     content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
 
 
 #-------------------------------
@@ -86,7 +86,7 @@ blog__settings:
 # Contact Settings
 
 contact__settings:
-  contact__email: your@email.com # Add your email for contact form
+  contact__email: jose.edil+site@gmail.com # Add your email for contact form
   contact__title: <span class="text-span">Get</span> in touch # Add a title to your form
   contact__description: Avenco comes with a built-in contact form. # Add a description to your form
 
@@ -96,16 +96,16 @@ contact__settings:
 
 #-------------------------------
 # Newsletter Settings
-mailchimp__settings:
-  mailchimp__title: <span class="text-span">Join</span> my mailing list # Add your title
-  mailchimp__text: " 'Get inspiration, updates and', 'cool stuff about design!' " # Add descriptions to the form by wrapping the text in single quotes. If you want to use more than one sentence, be sure to separate them with a comma.
-  mailchimp__identifier: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
-  mailchimp__button__text: Subscribe # Add your button text
+# mailchimp__settings:
+#   mailchimp__title: <span class="text-span">Join</span> my mailing list # Add your title
+#   mailchimp__text: " 'Get inspiration, updates and', 'cool stuff about design!' " # Add descriptions to the form by wrapping the text in single quotes. If you want to use more than one sentence, be sure to separate them with a comma.
+#   mailchimp__identifier: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+#   mailchimp__button__text: Subscribe # Add your button text
 
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: anvodstudio-demo # add your shortname for Disqus Comment. For example anvodstudio-demo
+# disqus-identifier: anvodstudio-demo # add your shortname for Disqus Comment. For example anvodstudio-demo
 
 
 #-------------------------------
@@ -119,9 +119,8 @@ google-analytics: # Add your identifier. For example UA-99631805-1.
 # Example of adding a new link to the footer - {icon: "ion-logo-facebook", link: "https://facebook.com"}
 # Other icons can be found at https://ionicons.com/v4/
 social:
-- {icon: "ion-logo-twitter", link: "https://twitter.com"}
-- {icon: "ion-logo-github", link: "https://github.com"}
-- {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
-- {icon: "ion-logo-codepen", link: "https://codepen.io"}
-- {icon: "ion-logo-vimeo", link: "https://vimeo.com"}
-- {icon: "ion-logo-youtube", link: "https://youtube.com"}
+- {icon: "ion-logo-twitter", link: "https://twitter.com/jose_edil"}
+- {icon: "ion-logo-instagram", link: "https://instagram.com/jose_edil"}
+- {icon: "ion-logo-youtube", link: "https://youtube.com/profedil"}
+- {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/joseedil/"}
+- {icon: "ion-logo-github", link: "https://github.com/edilmedeiros"}
