@@ -30,7 +30,8 @@ twitter_username: jose_edil
 github_username:  edilmedeiros
 
 # Build settings
-remote_theme: yous/jekyll-whiteglass
+#theme: jekyll-whiteglass
+remote_theme: yous/whiteglass
 plugins:
   - jekyll-archives
   - jekyll-paginate
