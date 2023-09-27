@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Non Academics
-<!--image: '/images/15.jpg'-->
 ---
 
 # Non Academic Publications

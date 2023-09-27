@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Publications
-<!--image: '/images/15.jpg'-->
 ---
 
 # Academic Publications
