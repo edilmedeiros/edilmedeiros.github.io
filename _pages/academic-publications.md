@@ -8,12 +8,15 @@ title: Publications
 
 Below you will find a complete list of my peer-reviewed papers. You might prefer to check my profiles at [Google Scholar](https://scholar.google.com/citations?user=uwoh_14AAAAJ&hl=en), [ORCID](https://orcid.org/0000-0001-6529-0780) or the [Lattes Platform](http://lattes.cnpq.br/2307490672260330) (the Brazilian academic CV database).
 
+---
 
 ## Accepted and waiting for publication
 
 Medeiros, E.; Lemos, E.; Peixoto, E.. *FACT: A Domain-Specific Language Based on a Functional Algebra for Continuous Time Modeling*. In: 2023 Winter Simulation Conference (WSC 2023), San Antonio, TX, USA, Nov. 2023.
 
 Medeiros, J. E. G.. *Censorship: Most Important Debate of the Decade in the Brazilian Political Scenario*. MISES: Interdisciplinary Journal of Philosophy, Law and Economics, 11, 2023. Also published in Portuguese under the title *Censura: A Discussão Mais Importante da Década na Política Brasileira*.
+
+---
 
 ## 2023
 
