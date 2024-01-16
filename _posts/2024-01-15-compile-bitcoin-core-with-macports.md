@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Compile bitcoin core with macports
+title: Compile bitcoin core on macOS with macports
 date: 2024-01-15 16:47 -0300
 tags:   [bitcoin]
 ---
@@ -84,7 +84,7 @@ export LIBS="$LIBS -L/opt/local/lib/db48"
 export BDB_CFLAGS="-I/opt/local/include/db48"
 ```
 <br>
-To built the GUI, we need `qt`.
+To build the GUI, we need `qt`.
 
 ```bash
 sudo port install qt5
@@ -120,11 +120,11 @@ sudo port install zmq
 If you haven't yet, clone the Bitcoin Core repository.
 
 ```bash
-git clone https://github.com/bitcoin/bitoin.git
+git clone https://github.com/bitcoin/bitcoin.git
 ```
 <br>
 In the source code folder, don't forget to configure the package by mentioning
-`boost` location.
+the `boost` library location.
 
 ```bash
 ./autogen.sh
@@ -159,4 +159,6 @@ Options used to compile and link:
   LTO             = no
 ```
 <br>
-That's it. Happy hacking.
+Now `make` it.
+
+Happy hacking.
