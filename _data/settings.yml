@@ -17,6 +17,8 @@ menu__settings:
         title: 'Academic'
       - url: '/other-publications'
         title: 'Non Academic'
+    - title: Blog
+      url: /blog/
 
 # Call to action button
 cta__button__text: Get in touch
@@ -76,8 +78,8 @@ projects__settings:
 # Blog Section
 
 blog__settings:
-  blog__title: Recent <span class="text-span">Blog</span> Posts # Add a 'text-span' class to highlight text.
-  blog__description:
+  blog__title: Recent <span class="text-span">Posts</span> # Add a 'text-span' class to highlight text.
+  blog__description: 
 
 
 #-------------------------------
