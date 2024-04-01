@@ -38,7 +38,13 @@ layout: default
         </a>
         <div class="post__author-info">
           <a href="{{site.baseurl}}/about/" class="post__author-link">{{site.data.settings.author.name}}</a>
-          <span class="post__date"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</time></span>
+          <span class="post__date">
+            {% if page.last_update %}
+            Modified <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.last_update | date_to_string }}</time>
+            {% else %}
+            <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</time>
+            {% endif %}
+          </span>
         </div>
       </div>
       {%include share.html %}

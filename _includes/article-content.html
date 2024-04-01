@@ -33,7 +33,14 @@
         </a>
         <div class="article-info">
           <a href="{{site.baseurl}}/about/" class="article__author-link">{{site.data.settings.author.name}}</a>
-          <span class="article__date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time></span>
+          <span class="article__date">
+            {% if post.last_update %}
+            Modified <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.last_update | date_to_string }}</time>
+            {% else %}
+            <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>
+            {% endif %}
+          </span>
+          <!-- <span class="article__date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time></span> -->
         </div>
       </div>
 
