@@ -2,6 +2,7 @@
 layout: post
 title: Compile bitcoin core on macOS with macports
 date: 2024-01-15 16:47 -0300
+last_update: 2024-04-01 17:03 -0300
 tags:   [bitcoin]
 ---
 
@@ -67,8 +68,6 @@ find them all right):
 ```bash
 export CPPFLAGS="$CPPFLAGS -isystem /opt/local/include"
 export LIBS="$LIBS -L/opt/local/lib"
-export EVENT_CFLAGS="-I/opt/local/include"
-export EVENT_LIBS="-L/opt/local/lib -levent"
 ```
 <br>
 
@@ -78,10 +77,7 @@ For legacy wallet support, we need `berkeley-db`.
 
 ```bash
 sudo port install db48
-
-export CPPFLAGS="$CPPFLAGS -I/opt/local/include/db48"
-export LIBS="$LIBS -L/opt/local/lib/db48"
-export BDB_CFLAGS="-I/opt/local/include/db48"
+export LDFLAGS="$LDFLAGS -L/opt/local/lib/db48"
 ```
 <br>
 To build the GUI, we need `qt`.
@@ -97,17 +93,17 @@ sudo port install qrencode
 ```
 <br>
 `miniupnpc` may be used for UPnP port mapping.
-
 ```bash
 sudo port install miniupnpc
-
-export MINIUPNPC_CPPFLAGS="-isystem /opt/local/include"
-export MINIUPNPC_LIBS="-L/opt/local/lib"
 ```
 <br>
-`libnatpmp` may be used for NAT-PMP port mapping. Unfortunately, there is no
-port available for it (maybe I should write it...).
+`libnatpmp` may be used for NAT-PMP port mapping. <s>Unfortunately, there is no
+port available for it (maybe I should write it...).</s> I finally took some time and contributed a <a href="https://github.com/macports/macports-ports/pull/23276" target="_blank">new port to MacPorts</a>.
 
+```bash
+sudo port install libnatpmp
+```
+<br>
 Install `zmq` for ZMQ notifications.
 
 ```bash
@@ -149,7 +145,7 @@ Options used to compile and link:
   with fuzz binary = yes
   with bench      = yes
   with upnp       = yes
-  with natpmp     = no
+  with natpmp     = yes
   use asm         = yes
   USDT tracing    = no
   sanitizers      =
@@ -162,3 +158,5 @@ Options used to compile and link:
 Now `make` it.
 
 Happy hacking.
+
+PS1: post updated to simplify the workflow.
