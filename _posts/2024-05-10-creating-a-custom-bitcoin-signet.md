@@ -186,6 +186,6 @@ It does so by managing an internal timer.
 With minimal network difficulty (which is what we are using here) any modern machine can find a few blocks per second.
 So, instead of increasing difficulty and "wasting" resources to mine, the miner grinds a new block and halt.
 
-It does woth checking out the discussion: <https://github.com/bitcoin/bitcoin/issues/30091>.
+It does worth checking out the discussion: <https://github.com/bitcoin/bitcoin/issues/30091>.
 
 Happy signet mining.
