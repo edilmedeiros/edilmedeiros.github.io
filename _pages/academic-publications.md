@@ -7,17 +7,19 @@ title: Publications
 
 Below you will find a complete list of my peer-reviewed papers. You might prefer to check my profiles at [Google Scholar](https://scholar.google.com/citations?user=uwoh_14AAAAJ&hl=en), [ORCID](https://orcid.org/0000-0001-6529-0780) or the [Lattes Platform](http://lattes.cnpq.br/2307490672260330) (the Brazilian academic CV database).
 
----
+<!-- --- -->
 
-## Accepted and waiting for publication
-
-Medeiros, E.; Lemos, E.; Peixoto, E.. *FACT: A Domain-Specific Language Based on a Functional Algebra for Continuous Time Modeling*. In: 2023 Winter Simulation Conference (WSC 2023), San Antonio, TX, USA, Nov. 2023.
-
-Medeiros, J. E. G.. *Censorship: Most Important Debate of the Decade in the Brazilian Political Scenario*. MISES: Interdisciplinary Journal of Philosophy, Law and Economics, 11, 2023. Also published in Portuguese under the title *Censura: A Discussão Mais Importante da Década na Política Brasileira*.
+<!-- ## Accepted and waiting for publication -->
 
 ---
+
+## 2024
+
+[26] Medeiros, J. E. G.. *Censorship: Most Important Debate of the Decade in the Brazilian Political Scenario*. MISES: Interdisciplinary Journal of Philosophy, Law and Economics, 11, 2023. Also published in Portuguese under the title *Censura: A Discussão Mais Importante da Década na Política Brasileira*. [DOI](https://doi.org/10.30800/mises.2023.v11.1518)
 
 ## 2023
+
+[25] Medeiros, E.; Lemos, E.; Peixoto, E.. *FACT: A Domain-Specific Language Based on a Functional Algebra for Continuous Time Modeling*. In: 2023 Winter Simulation Conference (WSC 2023), San Antonio, TX, USA, Nov. 2023. [DOI](https://doi.org/10.1109/WSC60868.2023.10408703)
 
 [24] Komatsu, O. T.; Medeiros, E.; Alves, L. M.; Peixoto, E.. *Multithreaded Algorithms for Lossless Intra Compression of Point Cloud Geometry Based on the Silhouette 3d Coder*. In: 2023 IEEE International Conference on Image Processing (ICIP 2023), Kuala Lumpur, Malaysia, 2023, pp. 1880-1884. [DOI](https://doi.org/10.1109%2Ficip49359.2023.10222713)
 
