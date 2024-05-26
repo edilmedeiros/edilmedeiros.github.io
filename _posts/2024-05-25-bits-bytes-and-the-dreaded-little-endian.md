@@ -311,7 +311,7 @@ Since this is little-endian, it is supposed to be read as `00000002` as we saw b
 
 ## Conclusion
 
-I hope this made sense for you and helped you understand better what we mean by little and big-endian.
+I hope this essay made sense for you and helped you understand better what we mean by little and big-endian.
 I see little-endian representation as a more natural choice than big-endian.
 Not only it aligns with what's happening in most hardware around, but it also makes sense in a mathematical perspective.
 The only quirk is the order we chose to display arrays in memory long time ago.
