@@ -282,3 +282,5 @@ hello-2.12.1.tar.gz
 
 If you come to write or update a port, submit it as a PR to https://github.com/macports/macports-ports.
 The whole community appreciates.
+
+*PS*: Another great reference I found after writing this: https://krithikrao.com/articles/2019/06/30/developing-and-contributing-a-macport/
