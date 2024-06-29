@@ -13,7 +13,7 @@ Se você quiser compilar a partir do código-fonte, instale as dependências (no
 ```bash
 cd bitcoin
 git checkout v27.0
-./configure --enable-wallet ----with-gui=no
+./configure --enable-wallet --with-gui=no
 make
 ```
 Nesse caso, os binários estarão na pasta `~/bitcoin/src/`.
