@@ -15,6 +15,8 @@ Below you will find a complete list of my peer-reviewed papers. You might prefer
 
 ## 2024
 
+[27] Eduardo Peixoto, Pedro Freitas, Mylene Farias, José Edil Guimarães De Medeiros, Fernando Guimaraes, Felipe Dionisio, Gabriel Menezes, Victor Melo, Luiz Fausto Brito, and Carlos Cosme. *Towards the Future of the Brazilian Digital Television Standard: Subjective Video Quality Evaluation for Next-Generation Broadcasting in Brazil*. In Proceedings of the 2024 ACM International Conference on Interactive Media Experiences Workshops (IMXw '24). Association for Computing Machinery, New York, NY, USA, 2024, 19–27. [DOI](https://doi.org/10.1145/3672406.3672410)
+
 [26] Medeiros, J. E. G.. *Censorship: Most Important Debate of the Decade in the Brazilian Political Scenario*. MISES: Interdisciplinary Journal of Philosophy, Law and Economics, 11, 2023. Also published in Portuguese under the title *Censura: A Discussão Mais Importante da Década na Política Brasileira*. [DOI](https://doi.org/10.30800/mises.2023.v11.1518)
 
 ## 2023
