@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 I'm Edil Medeiros, an Associate Professor at the University of Brasilia. 
-Please check my [resumé](../assets/cv/20230824-curriculo-cv-resume-english.pdf) ([portuguese version](../assets/cv/20230824-curriculo-cv-resume-ptbr.pdf)) or my [LinkedIn profile](https://www.linkedin.com/in/joseedil/) if you are interested in my professional background. 
+Please check my [resumé](../assets/cv/20230824-curriculo-cv-resume-english.pdf) ([portuguese version](../assets/cv/20230824-curriculo-cv-resume-ptbr.pdf)) or my [LinkedIn profile](https://www.linkedin.com/in/edilmedeiros/) if you are interested in my professional background. 
 You may also find academic directed information on my [ORCID](https://orcid.org/0000-0001-6529-0780), [Google Scholar](https://scholar.google.com/citations?user=uwoh_14AAAAJ&hl=en) profiles, or at the [Lattes Platform](http://lattes.cnpq.br/2307490672260330) (the Brazilian academic CV database).
 
 I've been working on two main research fronts: 
