@@ -9,7 +9,9 @@ Below you will find a complete list of my peer-reviewed papers. You might prefer
 
 <!-- --- -->
 
-<!-- ## Accepted and waiting for publication -->
+## Accepted and waiting for publication
+
+[28] Medeiros, Edil. *Can we rediscover Better Money?*, MISES: Interdisciplinary Journal of Philosophy, Law and Economics, 12, 2024
 
 ---
 
