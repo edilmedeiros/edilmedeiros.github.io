@@ -94,7 +94,7 @@ ADDR=$(bcli -regtest -named getnewaddress address_type="bech32")
 
 Get the signet challenge.
 ```bash
-SIGNET_CHALLENGE=$(bcli -regtest -named getaddressinfo $ADDR | jr -r .scriptPubKey)
+SIGNET_CHALLENGE=$(bcli -regtest -named getaddressinfo $ADDR | jq -r .scriptPubKey)
 ```
 
 We are done with regtest, stop the node.
