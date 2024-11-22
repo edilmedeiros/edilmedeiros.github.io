@@ -94,7 +94,7 @@ ADDR=$(bcli -regtest -named getnewaddress address_type="bech32")
 
 Get the signet challenge.
 ```bash
-SIGNET_CHALLENGE=$(bcli -regtest -named getaddressinfo $ADDR | jr -r .scriptPubKey)
+SIGNET_CHALLENGE=$(bcli -regtest -named getaddressinfo $ADDR | jq -r .scriptPubKey)
 ```
 
 We are done with regtest, stop the node.
@@ -110,7 +110,7 @@ This will be used by the connecting nodes too.
 echo "signet=1
 [signet]
 daemon=1
-signetchallenge=001427d3c92caf78e46124d297a165879e6876a9965a" > $SIGNET_DATADIR/bitcoin.conf
+signetchallenge=$SIGNET_CHALLENGE" > $SIGNET_DATADIR/bitcoin.conf
 ```
 
 Start the issuer node.
