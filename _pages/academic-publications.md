@@ -11,15 +11,21 @@ Below you will find a complete list of my peer-reviewed papers. You might prefer
 
 ## Accepted and waiting for publication
 
-[28] Medeiros, Edil. *Can we rediscover Better Money?*, MISES: Interdisciplinary Journal of Philosophy, Law and Economics, 12, 2024
 
 ---
 
 ## 2024
 
+[30] Medeiros, Edil. *Can we rediscover Better Money?*, MISES: Interdisciplinary Journal of Philosophy, Law and Economics, 12, 2024, [DOI](https://doi.org/10.30800/mises.2024.v12.1558)
+
+[29] Peixoto, E., Freitas, P. G., Farias, M. C. Q., Medeiros, E., & da Costa, A. H. M. (2024). *Additional Tests for TV 3.0*. arXiv preprint [arXiv:2411.11755](https://arxiv.org/abs/2411.11755)
+
+[28] Eduardo Peixoto, Pedro G. Freitas, Mylene C. Q. Farias, Edil Medeiros, Fernando C. Guimarães, Felipe S. S. Dionísio, Gabriel C. C. Menezes, Victor O. Melo, Luiz Fausto S. Brito e Carlos Cosme; 2024. *A Subjective Quality Evaluation Procedure for Bitrate Determination of TV 3.0 Videos*. SET INTERNATIONAL JOURNAL OF BROADCAST ENGINEERING.  Print: 2446-9246 ISSN Online: 2446-9432, [DOI](https://dx.doi.org/10.18580/setijbe.2024.1)
+
 [27] Eduardo Peixoto, Pedro Freitas, Mylene Farias, José Edil Guimarães De Medeiros, Fernando Guimaraes, Felipe Dionisio, Gabriel Menezes, Victor Melo, Luiz Fausto Brito, and Carlos Cosme. *Towards the Future of the Brazilian Digital Television Standard: Subjective Video Quality Evaluation for Next-Generation Broadcasting in Brazil*. In Proceedings of the 2024 ACM International Conference on Interactive Media Experiences Workshops (IMXw '24). Association for Computing Machinery, New York, NY, USA, 2024, 19–27. [DOI](https://doi.org/10.1145/3672406.3672410)
 
 [26] Medeiros, J. E. G.. *Censorship: Most Important Debate of the Decade in the Brazilian Political Scenario*. MISES: Interdisciplinary Journal of Philosophy, Law and Economics, 11, 2023. Also published in Portuguese under the title *Censura: A Discussão Mais Importante da Década na Política Brasileira*. [DOI](https://doi.org/10.30800/mises.2023.v11.1518)
+
 
 ## 2023
 
@@ -28,6 +34,7 @@ Below you will find a complete list of my peer-reviewed papers. You might prefer
 [24] Komatsu, O. T.; Medeiros, E.; Alves, L. M.; Peixoto, E.. *Multithreaded Algorithms for Lossless Intra Compression of Point Cloud Geometry Based on the Silhouette 3d Coder*. In: 2023 IEEE International Conference on Image Processing (ICIP 2023), Kuala Lumpur, Malaysia, 2023, pp. 1880-1884. [DOI](https://doi.org/10.1109%2Ficip49359.2023.10222713)
 
 [23] Medeiros, J. E. G.. *Ação Humana e a Teoria do Conhecimento: Uma Reconciliação Necessária entre Filosofia e Economia*. MISES: Interdisciplinary Journal of Philosophy, Law and Economics, 11, 2023. [DOI](https://doi.org/10.30800/mises.2023.v11.1513)
+
 
 ## 2021
 
