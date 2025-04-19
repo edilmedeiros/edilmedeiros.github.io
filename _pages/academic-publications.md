@@ -9,6 +9,10 @@ Below you will find a complete list of my peer-reviewed papers. You might prefer
 
 <!-- --- -->
 
+## Waiting for review
+
+Lemos, E.; Medeiros, E.; Peixoto, E.. FFACT: A Fix-based Domain-Specific Language based on a Functional Algebra for Continuous Time Modeling. In: Journal of Functional Programming.
+
 ## Accepted and waiting for publication
 
 
