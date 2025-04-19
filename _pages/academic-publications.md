@@ -9,6 +9,12 @@ Below you will find a complete list of my peer-reviewed papers. You might prefer
 
 <!-- --- -->
 
+## Working papers
+
+Medeiros, E. The Nature of Private Property in the Bitcoin Protocol.
+
+Medeiros, E. Formal Systems and the Bitcoin Protocol as a source of meaning.
+
 ## Waiting for review
 
 Lemos, E.; Medeiros, E.; Peixoto, E.. FFACT: A Fix-based Domain-Specific Language based on a Functional Algebra for Continuous Time Modeling. In: Journal of Functional Programming.
