@@ -119,8 +119,8 @@ google-analytics: # Add your identifier. For example UA-99631805-1.
 # Example of adding a new link to the footer - {icon: "ion-logo-facebook", link: "https://facebook.com"}
 # Other icons can be found at https://ionicons.com/v4/
 social:
-- {icon: "ion-logo-twitter", link: "https://twitter.com/jose_edil"}
-- {icon: "ion-logo-instagram", link: "https://instagram.com/jose_edil"}
-- {icon: "ion-logo-youtube", link: "https://youtube.com/profedil"}
+- {icon: "ion-logo-twitter", link: "https://twitter.com/edil_medeiros"}
+- {icon: "ion-logo-instagram", link: "https://instagram.com/edil.medeiros"}
+- {icon: "ion-logo-youtube", link: "https://youtube.com/@edilmedeiros"}
 - {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/edilmedeiros/"}
 - {icon: "ion-logo-github", link: "https://github.com/edilmedeiros"}
