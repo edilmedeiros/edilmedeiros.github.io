@@ -11,6 +11,8 @@ menu__settings:
       url: '/'
     - title: 'About Me'
       url: '/about/'
+    - title: 'Projects'
+      url: '/projects/'
     - title: 'Publications'
       submenu:
       - url: '/academic-publications'
