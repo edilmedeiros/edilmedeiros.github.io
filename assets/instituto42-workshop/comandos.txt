@@ -1,0 +1,63 @@
+# Clonar o repositório
+$ git clone https://github.com/vinteum-bdl/infra-signet-docker 
+
+# “Compilar" a imagem do container
+$ docker compose build --no-cache
+
+# Subir o container
+$ docker compose up bitcoin-node -d
+
+# Logar no container
+$ docker compose exec --user student -it bitcoin-node bash
+
+# No shell do container
+# bitcoind
+
+
+$ bitcoin-cli getblockchaininfo
+
+
+$ bitcoin-cli help 
+$ bitcoin-cli help getblockchaininfo
+
+
+$ bitcoin-cli createwallet "<name>"
+
+
+$ bitcoin-cli getbalance
+
+
+$ bitcoin-cli importdescriptors '[{"desc": "<descriptor>", "timestamp": 0}]'
+
+
+$ bitcoin-cli getpeerinfo
+
+
+$ bitcoin-cli addnode <node IP> onetry
+
+
+$ bitcoin-cli getnewaddress
+
+
+$ bitcoin-cli -named sendtoaddress address="<address>" amount=<amount> fee_rate=1
+
+
+$ bitcoin-cli getbalances
+
+
+$ bitcoin-cli getrawtransaction "<txid>" 1
+
+
+$ bitcoin-cli getrawmempool
+
+
+$ bitcoin-cli getblockhash <height>
+
+
+$ bitcoin-cli getblockheader "<block hash>"
+
+
+$ bitcoin-cli getblockheader <block hash> false
+
+
+$ bitcoin-cli getrawtransaction <txid> 1
