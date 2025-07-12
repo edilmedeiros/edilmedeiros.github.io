@@ -205,6 +205,47 @@ Not to master tools, but to become worthy of building them.</p>
 <p>Let others chase the ephemeral.
 We are here to build what endures.</p>
 
+<h4>Why I Care About This List</h4>
+
+<p>Because I remember, every single day, what it feels like to be lost in the noise.
+To want to become a great engineer, but not know where to look.
+To feel that something important was missing, some deeper foundation, and yet be handed only tools, frameworks, and deadlines.
+And to feel lonely (and a little afraid that I'm crazy) because no one around seems to feel the same.</p>
+    
+<p>This list is my attempt to push back against that.
+To offer a path.
+A tradition.
+Not a curriculum.
+Not a checklist.
+Just a thread you can pull — if you're ready to go deeper.</p>
+
+<p>This is a way to start a conversation with the great minds who came before us.
+Because great people have always existed.
+Because brilliant thinkers lost sleep over the problems we now treat as trivial.
+Because they offered solutions in a time of scarcity, when computing was expensive, memory was counted in kilobytes, and mistakes had consequences.
+They had no resources to waste like we do now.</p>
+
+<p>I’ve read every reference in this list — some of them many times.
+I’ve read far more than what’s here, but these are the books that made me think.
+These are the ones I wish I had started with, twenty years ago.
+No, these are the ones I wish I had read in spite of all others.
+I can’t go back in time.
+But maybe I can help someone else avoid the fast-food books and disposable references.</p>
+
+<p>Learning is not a linear process.
+Other than <em>GEB</em> and <em>SICP</em>, I don’t think there’s a right order to begin digesting these works.
+Embrace the chaos.
+Read these books in any order.
+Study them while you work your day job.
+Keep your mind’s eyes sharp and open and over time, you’ll begin to see where the pieces connect, and how to create better artifacts.
+Not by doing it right the first time, but by iterating.
+By refining.
+By caring.</p>
+
+<p>Finally, I care because I’ve seen what happens when a curious student finds the right book or the right questions at the right time.
+It changes everything.
+Sometimes, all someone needs is a door left slightly open, and a hint that there’s more on the other side.</p>
+
 </div>
 </details>
 
