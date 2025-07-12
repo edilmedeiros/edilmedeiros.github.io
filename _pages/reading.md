@@ -8,7 +8,10 @@ Click any title below to read commentary.
 
 ## Index
 
-- [Douglas Hofstadter — *Gödel, Escher, Bach*](#geb)
+- [Douglas Hofstadter — *Gödel, Escher, Bach* (GEB)](#geb)
+- [Harold Abelson and Gerald Jay Sussman - *Structure and Interpretation of Computer Programs* (SICP)](#sicp)
+
+<br>
 
 ## Why I made this list
 
@@ -164,7 +167,7 @@ We are here to build what endures.</p>
 
 ---
 
-### Douglas Hofstadter; Gödel, Escher, Bach {#geb}
+### Douglas Hofstadter; Gödel, Escher, Bach (GEB) {#geb}
 If you're going to read only one book from this list, make it this one.
 
 It’s not a book about software development per se.
@@ -185,3 +188,24 @@ It connects Gödel’s incompleteness theorems to Bach’s fugues and Escher’s
 To understand computing deeply is not to build apps or automate workflows.
 It is to see the world differently.
 *Gödel, Escher, Bach* offers a lens; one that most people will refuse to wear, but that will permanently rewire how you think if you do.
+
+### Harold Abelson and Gerald Jay Sussman - *Structure and Interpretation of Computer Programs* (SICP) {#sicp}
+This is the best book on computer engineering.
+
+It’s old. It uses LISP, a language many today consider dead or academic.
+So yes, it *feels* old-fashioned.
+But its content?
+Timeless.
+
+SICP teaches you how to think about **abstractions**, the cornerstone of software engineering.
+It builds everything from first principles, using elegant code examples and exercises that still challenge experienced developers today.
+
+If you’re used to only listening to hip-hop, the symphony that is this book might sound boring, maybe even useless.
+But every rock and pop star studied classical music.
+Not to write fugues, but to understand how good ideas are put together to make art.
+
+You don’t read SICP to learn a language.
+You **study** it to learn how to build *anything* — in any language that matters today.
+
+You can also watch the [MIT lectures on their OpenCourseWare platform](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005).
+There are also excellent commentaries on the [code_report youtube channel](https://youtube.com/playlist?list=PLVFrD1dmDdvdvWFK8brOVNL7bKHpE-9w0&si=I5TNlBWIYFl9nXHo).
