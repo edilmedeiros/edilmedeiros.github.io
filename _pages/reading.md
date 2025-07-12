@@ -220,7 +220,7 @@ Ah, Alan Turing — the founding father of computer science.
 He wasn’t trying to build machines or start a revolution.
 He was trying to solve a **fundamental problem in mathematics**:
 what can or cannot be proved?
-His 1936 paper on the *Entscheidungsproblem* (decision problem** is to computer science what Einstein’s first paper on relativity is to physics: a new kind of foundation we now take for granted.
+His 1936 paper on the *Entscheidungsproblem* (decision problem) is to computer science what Einstein’s first paper on relativity is to physics: a new kind of foundation we now take for granted.
 
 Turing did the unthinkable.
 He **defined what a computer is**, before computers existed.
