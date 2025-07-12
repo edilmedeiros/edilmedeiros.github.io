@@ -6,12 +6,16 @@ title: What to read
 A curated list of books for programmers who want to build things that endure.
 Click any title below to read commentary.
 
-## Index
+## Books
 
 - [Douglas Hofstadter — *Gödel, Escher, Bach* (GEB)](#geb)
 - [Harold Abelson and Gerald Jay Sussman - *Structure and Interpretation of Computer Programs* (SICP)](#sicp)
 - [Charles Petzold — *The Annotated Turing*](#annotated-turing)
 - [Eric S. Raymond — *The Cathedral and the Bazaar*](#cathedral-bazaar)
+
+## Articles/Papers
+
+- [John Backus - Can Programming Be Liberated from the von Neumann Style?](#backus-liberated)
 
 <br>
 
@@ -345,3 +349,30 @@ And how can a supposedly disorganized mess of programmers working after hours �
 
 Read this to think about the **sociology of software**.
 Because if these people ever stop doing what they do, we may well regress into the digital stone age.
+
+### John Backus — *Can Programming Be Liberated from the von Neumann Style?* {#backus-liberated}
+[https://doi.org/10.1145/359576.359579](https://doi.org/10.1145/359576.359579)
+
+John Backus was an engineer, not an academic.
+He built Fortran — the first truly useful high-level language.
+So useful, in fact, that we maintain some of the best linear algebra libraries still in use today in Fortran, forming the numerical backbone of our so-called AI era.
+
+Fortran is an imperative language — a style that mirrors how computers work.
+Each line is a command, compiled into more primitive machine instructions.
+And that’s still how most mainstream languages work today.
+
+This paper is the transcript of Backus’s Turing Award lecture (the closest thing to a Nobel in computer science).
+He used the stage not to celebrate his creation, but to question it.
+To say: *“I helped build this, it shaped the field… but I think we’ve gone astray.”*
+
+Backus observed that we design programming languages primarily to extract performance from imperative machines.
+And yes — software does have to run on computers.
+But programming languages are, above all, **languages**.
+People use them to express ideas.
+
+And language shapes thought.
+The way we write code constrains how we reason about it — and even what we can imagine.
+
+In this paper, Backus argues that we should design languages around how **humans think**, not how computers execute.
+The computer is the tool.
+It’s the machine that should adapt to us — not our minds to its architecture.
