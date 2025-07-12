@@ -213,7 +213,7 @@ We are here to build what endures.</p>
 
 <p>Because I remember, every single day, what it feels like to be lost in the noise.
 To want to become a great engineer, but not know where to look.
-To feel that something important was missing, some deeper foundation, and yet be handed only tools, frameworks, and deadlines.
+To feel that something important is missing, some deeper foundation, and yet be handed only tools, frameworks, and deadlines.
 And to feel lonely (and a little afraid that I'm crazy) because no one around seems to feel the same.</p>
     
 <p>This list is my attempt to push back against that.
