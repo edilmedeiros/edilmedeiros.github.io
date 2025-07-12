@@ -41,6 +41,7 @@ You read them to *join* that tradition.
 
 I hope it serves you well.
 
+<br>
 <details>
 <summary><strong>Most software today is built to be forgotten</strong></summary>
 <div>
@@ -102,7 +103,7 @@ We need stewards of tradition.
 Programmers who see themselves as participants in a conversation older than their tools.
 Programmers who understand that code is not just meant to work, but to last.</p>
 
-<h2>On Education and the Cult of Utility</h2>
+<h4>On Education and the Cult of Utility</h4>
 
 <p>Our institutions are not preparing the next generation to build what endures.</p>
 
@@ -130,7 +131,7 @@ These are exercises not in nostalgia, but in transmission—how to pass down the
 
 <p>But God does not maintain software. That’s up to us.</p>
 
-<h2>On AI and the Seduction of Vibe Coding</h2>
+<h4>On AI and the Seduction of Vibe Coding</h4>
 
 <p>The recent obsession with large language models has amplified the very disease we aim to treat.
 It is now fashionable to "vibe code"—to prompt a machine, skim the output, and paste until it runs.
