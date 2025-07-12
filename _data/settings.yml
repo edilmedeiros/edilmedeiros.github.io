@@ -19,6 +19,8 @@ menu__settings:
         title: 'Academic'
       - url: '/other-publications'
         title: 'Non Academic'
+      - url: '/reading'
+        title: 'Reading List'
     - title: Blog
       url: /blog/
 
