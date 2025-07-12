@@ -62,13 +62,27 @@ One day, the lights will go out—not because no one tried to keep them on, but 
 <p>We can choose to treat software not as a disposable product, but as a form of cultural expression.
 A craft whose goal is not speed or scale, but clarity, permanence, and meaning.</p>
 
-<p>This is the path of Emacs, Vim, Unix, and many other libraries and systems built and maintained in C, that old, unsafe, language.
-The very language used to build and maintain most of the internet infrastructure.
-Systems some call “legacy” which are indeed civilizational infrastructure.
-Yeah, JavaScript is just a thin wrapper over decades of C/C++.</p>
+<p>This is the path of Emacs, Vim, Unix, and many other libraries and systems built and maintained in C — that old, unsafe language.
+The very same language used to build and maintain most of the internet’s infrastructure.
+Systems some now call “legacy,” but which are, in truth, civilizational infrastructure.</p>
 
-<p>They have not survived in spite of their age.
-They have survived because they were built to endure.</p>
+<p>People say JavaScript is the language of the internet.</p>
+
+<p>It is not.</p>
+
+<p>The true languages of the internet are plain old C and C++, the very languages no one wants to teach or learn anymore.
+Sorry to say, but JavaScript is just a rushed wrapper over decades of C and C++.
+It can do some cool, good-looking stuff, because the marvel that is a modern web browser; guess what, written in C and C++.
+But we can’t count on it to keep the edifice from falling apart.</p>
+
+<p>Don’t get me wrong — we need those things too.
+A Ferrari isn’t a Ferrari without leather seats and polished interiors.
+But no one dreams of owning one because of the leather.
+They dream of the engine, the pristine mechanics, the architecture that makes performance possible, and the artisanship of a machine built by engineers and technicians who are also craftsmen.</p>
+
+<p>These things have not survived in spite of their age.
+They have survided because some people took the time to develop rare and deliberate skills.
+They have survived because these people want to transcend their own lives by doing timeless artifacts.</p>
 
 <p>To walk this path requires more than technical competence.
 It requires erudition.</p>
@@ -81,7 +95,7 @@ The former builds tools; the latter uses them.</p>
 <p>This is not a call for nostalgia.
 It is a call for depth.</p>
 
-<p>Edsger Dijkstra argued that software should be beautiful—that clarity and elegance are moral virtues in code.
+<p>Edsger Dijkstra argued that software should be beautiful, that clarity and elegance are moral virtues in code.
 Richard Stallman, despite his politics, glimpsed something similar: software, if well written and liberated from arbitrary dependencies, becomes free from its creators.
 It becomes self-sufficient, a thing that exists on its own terms.</p>
 
@@ -91,7 +105,8 @@ It is a form of authorship.</p>
 <p>And yet, why bother?</p>
 
 <p>Economics can’t fully explain open source.
-Eric Raymond got close—yes, incentives matter—but the real motivation is harder to measure.
+Eric Raymond got close.
+Yes, incentives matter, but the real motivation is harder to measure.
 It’s not just reputation or signaling.
 It’s something older, deeper.
 The pride of the artisan.
@@ -105,7 +120,9 @@ Programmers who understand that code is not just meant to work, but to last.</p>
 
 <h4>On Education and the Cult of Utility</h4>
 
-<p>Our institutions are not preparing the next generation to build what endures.</p>
+<p>Our institutions are not preparing the next generation to build what endures.
+I know that very well, I'm a professor at a major university in Brazil.
+And truth be told, I'm probably more part of the problem than the solution.</p>
 
 <p>Schools are increasingly pressured into “project-based,” “real-world,” “hands-on” pedagogies—buzzwords that too often mean building whatever solves the most immediate problem, then moving on.
 This is the educational branch of the same Silicon Valley rot: fail fast, fail often, ship it, forget it.</p>
@@ -131,10 +148,27 @@ These are exercises not in nostalgia, but in transmission—how to pass down the
 
 <p>But God does not maintain software. That’s up to us.</p>
 
+<p>But wait, Edil — what do you mean by <em>us</em>?
+Where’s the timeless code you’ve written yourself?
+You might ask me that.
+And it hits me hard.
+I truly envy some of the programmers I’ve worked with. 
+When I watch them do their craft, I wish I were doing that too.</p>
+
+<p>But I’ve also come to realize that, almost as important as having the artists working, is inspiring and guiding the next generation of artists.
+I believe I could be building good software.
+But I also believe I’m most valuable when I help build good people.</p>
+
+<p>I hope I’m doing that well enough.
+But only time will tell.
+And I don’t care if nobody sees it.
+I’m trying to shape people in a tradition I believe leads to real progress, not just good-looking frontends.
+If two or three of them end up helping to build something truly foundational — something that lasts — that’s probably more than I could have done myself.</p>
+
 <h4>On AI and the Seduction of Vibe Coding</h4>
 
 <p>The recent obsession with large language models has amplified the very disease we aim to treat.
-It is now fashionable to "vibe code"—to prompt a machine, skim the output, and paste until it runs.
+It is now fashionable to "vibe code"; to prompt a machine, skim the output, and paste until it runs.
 It feels like programming.
 It looks like productivity.
 But it is neither.</p>
@@ -144,8 +178,8 @@ It encourages the illusion of mastery while hollowing out the discipline itself.
 You are not becoming a better developer by prompting until it compiles.
 You are simply becoming a more efficient operator of a glorified autocomplete engine.</p>
 
-<p>There is nothing wrong with using LLMs—when used with intentionality and craft.
-For the erudite programmer, these models are like sharpened chef’s knives: tools to accelerate judgment, precision, and depth.
+<p>There is nothing wrong with using LLMs, when used with intentionality and craft.
+For the erudite programmer, these models are like sharpened chef’s knives: amazing tools for thought that can accelerate judgment, precision, and depth.
 But in unskilled hands, they do not produce better software.
 They produce more software.
 Worse software.
@@ -156,6 +190,10 @@ we are deceiving ourselves.
 We confuse activity with learning.
 We conflate output with experience.
 We mistake convenience for growth.</p>
+
+<p>Like junk food for the mind, we’re intoxicating ourselves with crap software.
+It fills you up, but it doesn’t nourish.
+And over time, it rots your taste, until you can’t even tell the difference between a fine wine and vinegar.</p>
 
 <p>This is why we read.
 Not to memorize syntax, but to train our taste.
