@@ -11,6 +11,7 @@ Click any title below to read commentary.
 - [Douglas Hofstadter — *Gödel, Escher, Bach* (GEB)](#geb)
 - [Harold Abelson and Gerald Jay Sussman - *Structure and Interpretation of Computer Programs* (SICP)](#sicp)
 - [Charles Petzold — *The Annotated Turing*](#annotated-turing)
+- [Eric S. Raymond — *The Cathedral and the Bazaar*](#cathedral-bazaar)
 
 <br>
 
@@ -237,3 +238,28 @@ It’s like sitting beside Turing at the blackboard — with a patient guide exp
 
 If you call yourself a computer scientist and haven’t read this yet, consider this your invitation.
 Or your reckoning.
+
+### Eric S. Raymond — *The Cathedral and the Bazaar* {#cathedral-bazaar}
+
+> “Writing software is about people, not about computers.”
+
+That’s something I say often, especially when someone comes to me eager to learn how to program.
+
+On one hand, writing software is about communicating an idea.
+But it's also about solving a problem; and problems are something **people** have, not computers.
+Computers just sit there.
+It’s *people* who use them as tools.
+
+This book is a collection of essays about **how** software is developed by people.
+Most programmers experience the *Cathedral* model:
+a highly organized, top-down structure, usually a company, building a product in a planned, centralized way.
+
+And yet, those same programmers are relying on dozens (or hundreds) of libraries and tools built under an entirely different model: open source.
+
+Eric Raymond’s essays reflect on the *Bazaar* model — chaotic, decentralized, voluntary collaboration.
+Why do people do it?
+What are the unwritten rules of etiquette?
+And how can a supposedly disorganized mess of programmers working after hours — unpaid — somehow build the most reliable and fundamental parts of the internet?
+
+Read this to think about the **sociology of software**.
+Because if these people ever stop doing what they do, we may well regress into the digital stone age.
