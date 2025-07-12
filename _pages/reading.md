@@ -10,6 +10,7 @@ Click any title below to read commentary.
 
 - [Douglas Hofstadter — *Gödel, Escher, Bach* (GEB)](#geb)
 - [Harold Abelson and Gerald Jay Sussman - *Structure and Interpretation of Computer Programs* (SICP)](#sicp)
+- [Charles Petzold — *The Annotated Turing*](#annotated-turing)
 
 <br>
 
@@ -209,3 +210,30 @@ You **study** it to learn how to build *anything* — in any language that matte
 
 You can also watch the [MIT lectures on their OpenCourseWare platform](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005).
 There are also excellent commentaries on the [code_report youtube channel](https://youtube.com/playlist?list=PLVFrD1dmDdvdvWFK8brOVNL7bKHpE-9w0&si=I5TNlBWIYFl9nXHo).
+
+### Charles Petzold — *The Annotated Turing* {#annotated-turing}
+
+Ah, Alan Turing — the founding father of computer science.
+
+He wasn’t trying to build machines or start a revolution.
+He was trying to solve a **fundamental problem in mathematics**:
+what can or cannot be proved?
+His 1936 paper on the *Entscheidungsproblem* (decision problem** is to computer science what Einstein’s first paper on relativity is to physics: a new kind of foundation we now take for granted.
+
+Turing did the unthinkable.
+He **defined what a computer is**, before computers existed.
+In his time, a “computer” meant a person who carried out calculations by hand.
+
+And yet, despite the influence of his work, I’d wager 99% of programmers and computer scientists have never read this paper.
+
+It’s not that hard.
+The notation is strange, sure; we’ve had nearly a century to clean that up.
+But the ideas are astonishing.
+This is a human being formalizing the limits of reason, the boundary between mechanical logic and intuition.
+It’s philosophy in math’s clothing.
+
+Charles Petzold’s book walks you through Turing’s original paper, line by line, with commentary and context.
+It’s like sitting beside Turing at the blackboard — with a patient guide explaining what he was trying to do and why it mattered.
+
+If you call yourself a computer scientist and haven’t read this yet, consider this your invitation.
+Or your reckoning.
