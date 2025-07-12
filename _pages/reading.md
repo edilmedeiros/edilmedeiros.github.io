@@ -3,13 +3,38 @@ layout: page
 title: What to read
 ---
 
-A curated list of books for programmers who want to build things that endure. Click any title below to read commentary.
+A curated list of books for programmers who want to build things that endure.
+Click any title below to read commentary.
 
 ## Index
 
 - [Douglas Hofstadter — *Gödel, Escher, Bach*](#geb)
 
+## Why I made this list
 
+I’ve been working with novice and experienced programmers for almost fifteen years.
+Thousands of students have attended my lectures; I’ve supervised a few dozen more closely.
+And every so often, someone stands out — a young, curious mind who senses that something’s missing.
+
+They can’t quite name it.
+They just feel a kind of **void** — like they’re *doing* things, solving problems, writing code — but not *growing* in the way they hoped.
+
+I feel that too.
+Even after twenty years of professional work, first in electronics, now in protocols and software engineering;
+that sense never quite disappears.
+There’s always another layer.
+Another connection to make.
+Another system to understand more deeply.
+
+This list is for them; and for the twenty-year-old me.
+If you feel that same restlessness, that hunger for something more than just the next framework or ticket, I hope this list offers a starting point.
+
+It’s not a checklist.
+It’s a **conversation across time** with people who thought deeply and built carefully.
+You don’t read these books to finish them.
+You read them to *join* that tradition.
+
+I hope it serves you well.
 
 <details>
 <summary><strong>Most software today is built to be forgotten</strong></summary>
