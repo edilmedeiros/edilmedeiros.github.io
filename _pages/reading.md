@@ -3,6 +3,14 @@ layout: page
 title: What to read
 ---
 
+A curated list of books for programmers who want to build things that endure. Click any title below to read commentary.
+
+## Index
+
+- [Douglas Hofstadter — *Gödel, Escher, Bach*](#geb)
+
+
+
 <details>
 <summary><strong>Most software today is built to be forgotten</strong></summary>
 <div>
@@ -128,3 +136,27 @@ We are here to build what endures.</p>
 
 </div>
 </details>
+
+---
+
+### Douglas Hofstadter; Gödel, Escher, Bach {#geb}
+If you're going to read only one book from this list, make it this one.
+
+It’s not a book about software development per se.
+The central question it explores is:
+**how can inanimate systems become animate?**
+Or put differently: how can self-awareness emerge from formal, mechanical rules?
+
+The thesis is deeply relevant to the way we think as programmers.
+Formal systems are the atoms of computer science.
+Every programming language is a formal language; every computer implements a formal system.
+And yet, Hofstadter shows how these rigid systems can give rise to self-reference, recursion, and ultimately, meaning.
+
+This book will stretch your intuition.
+It uses computers not just as tools, but as metaphors.
+It draws analogies between symbols in logic, notes in music, and patterns in biology.
+It connects Gödel’s incompleteness theorems to Bach’s fugues and Escher’s paradoxes, all in the service of understanding what it means for something to *think*.
+
+To understand computing deeply is not to build apps or automate workflows.
+It is to see the world differently.
+*Gödel, Escher, Bach* offers a lens; one that most people will refuse to wear, but that will permanently rewire how you think if you do.
