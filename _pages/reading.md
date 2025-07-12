@@ -43,8 +43,10 @@ I hope it serves you well.
 
 <br>
 <details>
-<summary><strong>Most software today is built to be forgotten</strong></summary>
+<summary><strong>Now, truly why I care about this list...</strong></summary>
 <div>
+
+<h2>Most software today is built to be forgotten</h2>
 
 <p>Written in haste, layered with abstractions, then discarded with the next trend.
 We build like amnesiacs: few know how the systems beneath them truly work.
