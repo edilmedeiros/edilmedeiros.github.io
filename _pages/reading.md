@@ -15,7 +15,9 @@ Click any title below to read commentary.
 
 ## Articles/Papers
 
-- [John Backus - Can Programming Be Liberated from the von Neumann Style?](#backus-liberated)
+- [John Backus - *Can Programming Be Liberated from the von Neumann Style?*](#backus-liberated)
+- [Peter J. Landin — *The Next 700 Programming Languages*](#landin-700)
+- [Ken Thompson — *Reflections on Trusting Trust*](#thompson-trust)
 
 <br>
 
@@ -376,3 +378,50 @@ The way we write code constrains how we reason about it — and even what we can
 In this paper, Backus argues that we should design languages around how **humans think**, not how computers execute.
 The computer is the tool.
 It’s the machine that should adapt to us — not our minds to its architecture.
+
+### Peter J. Landin — *The Next 700 Programming Languages* {#landin-700}
+[https://dl.acm.org/doi/10.1145/365230.365257](https://dl.acm.org/doi/10.1145/365230.365257)
+
+If this paper were taught in first-year computer science programs, we probably wouldn’t have so many shallow languages today.
+
+Think of the countless JavaScript frameworks — each acting as a specialized dialect.
+None introduces a new way to think.
+They just make it more convenient to express certain patterns:
+Need a button on the screen?
+Call this function.
+Need to load a video?
+Call that other one.
+And now even the simplest landing page runs a dreadful amount of unnecessary (and potentially harmful) code.
+
+If John Backus warned us about the von Neumann style poisoning our minds, Landin gave us the first serious blueprint for escaping it.
+He advocated for a shift from **operational semantics** — what the computer does — to **denotational semantics** — what the program *means*.
+
+Even if you never write a line of code in a purely functional language, this way of thinking will change how you see software.
+It will make you a better designer of abstractions.
+It will train you to care not just about what code does, but about what it *says*.
+
+### Ken Thompson — *Reflections on Trusting Trust* {#thompson-trust}
+[https://dl.acm.org/doi/10.1145/358198.358210](https://dl.acm.org/doi/10.1145/358198.358210)
+
+A short but devastating paper by one of the wizards of our field — co-creator of Unix, C, and Go.
+
+In just a few pages, Ken Thompson demonstrates how easy it is to hide malware in a compiler, in a way that survives even if you inspect and recompile the source code.
+The point is not the exploit — it’s the insight:
+**trust in software is never absolute**.
+Every tool you use is built on a foundation you probably didn’t verify.
+
+This paper should be required reading in the age of dependency hell.
+Who hasn’t compiled a small Go or Rust program, only to see hundreds of direct and indirect dependencies pulled in automatically?
+It's convenient, sure — but it’s also terrifying.
+Auditing that much software is nearly impossible.
+And the more we depend on layers we don’t understand, the more fragile and opaque our stack becomes.
+
+And now we’re generating even more of that opaque code — with AI.
+Models trained on an ocean of unknown-quality code are producing snippets we didn’t write, can’t fully audit, and often don’t truly understand.
+We’re not just trusting code — we’re trusting code that was written by code that was trained on untrusted code.
+
+We are building castles on sand — and the sand is now writing the blueprints.
+
+Thompson’s warning still stands:
+*“You can’t trust code that you did not totally create yourself.”*
+That doesn’t mean you should write everything from scratch — but it does mean you should *understand what you're trusting, and why.*
