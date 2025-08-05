@@ -69,12 +69,14 @@ If the input is `1011` (which is 11 in decimal), the correct output should be `1
 - **Initial head position**: the rightmost digit of the input
 - **Initial state**: `start`
 
-#### Transition Rules
+#### Transition Rules[^1]
 1. In `start`, if reading `0` → write `1`, halt in `done`
 2. In `start`, if reading `1` → write `0`, move left, enter `carrying`
 3. In `carrying`, if reading `0` → write `1`, halt in `done`
 4. In `carrying`, if reading `1` → write `0`, move left, stay in `carrying`
 5. In `carrying`, if reading `B` → write `1`, halt in `done`
+
+[^1]: There is a serious bug in this formulation that I will discuss in another post. Can you see what it is?
 
 #### Execution Trace
 
