@@ -18,7 +18,7 @@ So it’s natural to reduce functional programming to a list of contrasting trai
 
 But that’s not what programming really is—not at its core.
 
-> **Programming is the art and engineering of expressing computational ideas in code.**
+> Programming is the art and engineering of expressing computational ideas in code.
 
 And that raises a deeper question: what exactly is computation?
 
@@ -38,7 +38,7 @@ Now, here’s a key insight that follows from our definition of programming: ins
 
 This brings us to the heart of the matter:
 
-> **Functional programming is the discipline of expressing computational ideas with functions—and functions alone.**
+> Functional programming is the discipline of expressing computational ideas with functions—and functions alone.
 
 It’s a discipline for the mind, not for the machine.
 And it can be practiced in virtually any programming language (though some languages make it easier than others).
@@ -240,7 +240,7 @@ This simple example also shows just how blazingly fast modern CPUs must be to su
 
 Backus goes deeper into the problem of the von Neumann bottleneck:
 
-> "Not only is this tube a literal bottleneck for the data traffic of a problem, but, more importantly, it is an **intellectual bottleneck** that has kept us tied to word-at-a-time thinking..."
+> "Not only is this tube a literal bottleneck for the data traffic of a problem, but, more importantly, it is an *intellectual bottleneck* that has kept us tied to word-at-a-time thinking..."
 
 Because our programming languages evolved to match this architecture, they inherit its low-level concerns:
 variables, memory locations, stateful updates.
