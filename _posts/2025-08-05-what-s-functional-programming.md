@@ -4,6 +4,7 @@ title: What's Functional Programming?
 date: 2025-08-05 16:06 -0300
 tags:
 - functional programming
+- computers
 categories:
 - fp
 ---
