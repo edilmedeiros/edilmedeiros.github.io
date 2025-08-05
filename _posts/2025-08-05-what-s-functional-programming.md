@@ -22,7 +22,7 @@ But that’s not what programming really is—not at its core.
 
 And that raises a deeper question: what exactly is computation?
 
-Here’s something that might surprise you: **computation is not a given thing—computation is an engineered thing.**
+Here’s something that might surprise you: **computation is not a given thing—computation is an engineered concept.**
 It’s not a law of nature.
 It’s something we define.
 In fact, we typically define computation as “whatever a computer does.”
@@ -102,9 +102,10 @@ Note that:
 1. The semantics of an algorithm described by a Turing Machine is based on the mechanics of the abstract mechanism. 
    Compare the intended behavior—incrementing a binary number by 1—with the implementation in terms of states and transitions: they look like completely different things.
    That’s why reading and reviewing code written by others is often harder than writing it ourselves.
-   We need to simulate what the machine will do and try to reconstruct the abstract behavior it implements.
+   We need to simulate what the machine will do and try to infer the abstract behavior it implements.
+   In other words, **we are given an implementation and we have to figure out its specification**.
 2. Reasoning about the machine is done in terms of state transitions and memory (the tape) manipulations.
-   This is the basis of complexity analysis, a fundamental aspect of software resource usage (time and space).
+   This is the basis of complexity analysis, a fundamental tool for understanding resources usage (time and space) by software.
    But this makes it quite hard to analyze correctness.
    And we could argue that a fast but incorrect program is rarely useful in practice.
    That’s not entirely true—correctness in real-world systems is subtle, and often manifests as bugs rather than blatantly erroneous results.
@@ -117,9 +118,8 @@ Note that:
 Alan Turing did a magnificent work starting with this model of computation and I highly recommend reading [his paper](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf) at least once.
 In the paper, he builds a library of useful procedures and "program" a Universal Machine:
 a Turing Machine that can simulate all other Turing Machines given an encoded description on its tape.
-
 That's remarkable, not only because of the mathematical result (proving the impossibility of solving the Entscheidungsproblem), but also because he unintentionally observed that data written in the machine's memory (tape) could be interpreted as procedures to be executed, subtly blurring the line between data and code.
-In some sense, we can say that Turing framework already accounts for the idea of first-class functions, but nobody noticed.
+In some sense, we can say that Turing's framework already accounts for the idea of first-class functions, but nobody noticed.
 
 ## From Abstract Machines to Physical Computers: The von Neumann Architecture
 
@@ -157,8 +157,7 @@ This limitation was described by John Backus in his 1977 Turing Award lecture "[
 
 Think about the last time you wrote code in C or Python or JavaScript:
 how much of your time was spent thinking about _what_ computation to express, and how much was spent managing _how_ data flows, is stored, or updated.
-That’s the hidden cost of programming atop a machine model.
-_We think we’re writing logic, but we’re often just orchestrating memory movement_.
+That’s the hidden cost of programming atop a machine model: **we think we’re writing logic, but we’re often just orchestrating memory movement**.
 
 To make the bottleneck even clearer, let’s look at a simple C program:
 
