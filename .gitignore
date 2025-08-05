@@ -3,3 +3,5 @@ Gemfile.lock
 
 **/.DS_Store
 .DS_Store
+/.direnv/
+/.gem/
