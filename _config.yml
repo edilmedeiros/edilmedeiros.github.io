@@ -6,7 +6,12 @@ url: "https://edil.com.br" # the base hostname & protocol for your site, e.g. ht
 
 #-------------------------------
 # Build Settings
+highlighter: rouge
+
 markdown: kramdown
+kramdown:
+  syntax_highlighter: rouge
+
 permalink: /:title
 plugins:
   - jekyll-paginate
