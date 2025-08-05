@@ -1,3 +1,5 @@
+@use '../0-settings' as *;
+
 /* Animate */
 .animate {
   animation: animateElement cubic-bezier(.300,.450,.450,.950) .75s;

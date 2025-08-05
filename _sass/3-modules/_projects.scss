@@ -1,3 +1,6 @@
+@use '../0-settings' as *;
+@use '../1-tools' as *;
+
 /* Section Projects */
 .project {
   margin-bottom: 32px;
