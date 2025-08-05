@@ -56,14 +56,14 @@ disk: "30GiB"
 
 user:
   name: lima
-  home: /home/\{\{.User\}\}
+  home: /home/lima
   
 
 mounts:
   - location: "~"
     writable: true
   - location: "~/2-development/bitcoin/usdt-test"
-    mountPoint: "\{\{.Home\}\}/dev"
+    mountPoint: "/home/lima/dev"
     writable: true
 
 provision:
@@ -92,7 +92,7 @@ provision:
         git curl python3-pip
 
       # Config user shell
-      echo "TERM=xterm-256color" > {{.Home}}/.bash_profile
+      echo "TERM=xterm-256color" > /home/lima/.bash_profile
 
 containerd:
   system: false
