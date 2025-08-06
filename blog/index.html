@@ -7,7 +7,7 @@ description:
   <div class="row">
     <div class="col col-8 push-2 col-t-12 push-t-0">
       <div class="page-head">
-        <h1 class="page-title">{% if page.title %}{{ page.title }}{% else %}{{ site.data.settings.blog__settings.blog__title }}{% endif %}</h1>
+        <h1 class="page-title">{% if page.title %}{{ page.title }}{% else %}{% endif %}</h1>
         {% if page.description %}
           <p class="page-description">{{ page.description }}</p>
         {% else site.data.settings.blog__settings.blog__description %}
