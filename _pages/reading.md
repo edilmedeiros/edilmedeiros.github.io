@@ -13,6 +13,7 @@ Click any title below to read commentary.
 - [Charles Petzold — *The Annotated Turing*](#annotated-turing)
 - [Eric S. Raymond — *The Cathedral and the Bazaar*](#cathedral-bazaar)
 - [A. G. Sertillanges — *The Intellectual Life*](#sertillanges)
+- [Edward A. Lee — *Plato and the Nerd*](#plato-nerd)
 
 ## Articles/Papers
 
@@ -382,6 +383,32 @@ And it aligns perfectly with the spirit of this reading list:
 It’s not about following trends.
 It’s about cultivating a deeper, slower kind of growth.
 The kind that makes you useful to others — not just because of what you can do, but because of how you think, and who you are becoming.
+
+### Edward A. Lee — *Plato and the Nerd* {#plato-nerd}
+
+This is an unusual one.
+Written by Berkeley professor Edward Lee, *Plato and the Nerd* is a philosophical reflection on engineering and the nature of technology.
+It’s one of the rare books that treats engineers not as tool builders or code monkeys, but as thinkers — creators of models, theories, and meaning.
+
+The core idea is that engineering is fundamentally a **top-down process**.
+We don't start from physical constraints and work up.
+We start from ideas.
+From abstractions.
+From *models* — which we then try to realize in the physical world.
+
+Sure, physical constraints eventually push back.
+But the act of invention is, at its core, *free*.
+It’s Platonic.
+It comes from the mind, not from the material.
+
+This is an important corrective to the current obsession with “just build it” and “move fast” cultures.
+Engineering is not about duct-taping things until they run.
+It’s about thinking deeply and systematically.
+It’s about crafting elegant models that survive contact with reality — and sometimes even reshape it.
+
+If you’ve ever felt that your work is more than code, more than tools — that you’re participating in a centuries-old tradition of modeling the world — this book will resonate.
+
+It’s a call to take that tradition seriously.
 
 ---
 
