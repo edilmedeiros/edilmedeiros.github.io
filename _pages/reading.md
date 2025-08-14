@@ -13,6 +13,7 @@ Click any title below to read commentary.
 - [Charles Petzold — *The Annotated Turing*](#annotated-turing)
 - [Eric S. Raymond — *The Cathedral and the Bazaar*](#cathedral-bazaar)
 - [A. G. Sertillanges — *The Intellectual Life*](#sertillanges)
+- [Viktor E. Frankl — *Man’s Search for Meaning*](#frankl)
 - [Edward A. Lee — *Plato and the Nerd*](#plato-nerd)
 
 ## Articles/Papers
@@ -383,6 +384,39 @@ And it aligns perfectly with the spirit of this reading list:
 It’s not about following trends.
 It’s about cultivating a deeper, slower kind of growth.
 The kind that makes you useful to others — not just because of what you can do, but because of how you think, and who you are becoming.
+
+### Viktor E. Frankl — *Man’s Search for Meaning* {#frankl}
+
+This book isn’t about programming, but it might be the most important book on this list.
+It resonates deeply with Sertillanges’ *The Intellectual Life* — not in style or topic, but in spirit.
+Because this list is not just about acquiring technical knowledge.
+It’s about living a fuller life.
+Becoming a better person.
+And understanding *why* you do what you do.
+
+If your life feels perfectly in place — if your routines feel sufficient, your job fulfilling, your curiosity constantly fed — maybe you don’t need this book.
+But if you ever feel that something’s missing — not from your schedule, but from your *soul* — then this might be exactly what you're looking for.
+
+Frankl, a Holocaust survivor and psychiatrist, doesn’t tell you to discover your “true” purpose like it’s some hidden treasure buried deep inside you.
+He challenges you to **choose** a purpose — and then to *endure* in making it manifest in the world.
+
+I’m not saying you should quit your job or change careers.
+But I am saying that the deepest form of motivation doesn’t come from dopamine hits or quarterly goals.
+It comes from knowing what you’ve decided to stand for.
+
+Take my personal example:
+I believe I could be a valuable programmer out there, solving real-world technical problems.
+But I choose — every day, until I no longer do — to help people grow.
+To teach, to mentor, to try and point others toward depth.
+
+That’s not sacrifice.
+That’s **purpuse**.
+That's craft.
+And if I manage to help even ten brilliant young minds become better programmers — better thinkers — that’s probably ten times more impact than I could ever have had alone.
+
+This book won’t tell you what to do.
+But it might help you remember *why* it matters that you do it.
+
 
 ### Edward A. Lee — *Plato and the Nerd* {#plato-nerd}
 
