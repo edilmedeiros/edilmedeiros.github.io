@@ -15,6 +15,7 @@ Click any title below to read commentary.
 - [A. G. Sertillanges — *The Intellectual Life*](#sertillanges)
 - [Viktor E. Frankl — *Man’s Search for Meaning*](#frankl)
 - [Edward A. Lee — *Plato and the Nerd*](#plato-nerd)
+- [C. P. Snow – *The Two Cultures*](#snow)
 
 ## Articles/Papers
 
@@ -443,6 +444,32 @@ It’s about crafting elegant models that survive contact with reality — and s
 If you’ve ever felt that your work is more than code, more than tools — that you’re participating in a centuries-old tradition of modeling the world — this book will resonate.
 
 It’s a call to take that tradition seriously.
+
+### C. P. Snow – *The Two Cultures* {#snow}
+
+This short but foundational lecture-turned-book is a call to arms for the modern generalist.
+In 1959, C. P. Snow diagnosed a fracture in our intellectual world: the divide between the sciences and the humanities.
+Scientists didn’t know Shakespeare.
+Literary critics didn’t know the Second Law of Thermodynamics.
+And neither side thought that was a problem.
+
+But it is.
+
+This divide creates shallow minds in both camps — technologists with no historical awareness, and thinkers with no grasp of the systems shaping modern life.
+In software, we see this all the time: brilliant coders who build fast, disposable, ugly things because they lack aesthetic judgment, philosophical depth, or historical awareness.
+
+Let’s be clear: there are no “two cultures.”
+There is only *knowledge*.
+And to live a full intellectual life, to do meaningful work, you can’t afford to live in just half the house.
+
+I’ve met many technically gifted programmers.
+But the ones I want on my team — the ones I want to spend time with — are those who can also talk about music, art, politics, and ethics.
+They’re harder to fool.
+They don’t fall for buzzwords or cargo cults.
+They don’t write ugly code.
+They are *true persons of all times*.
+
+If you're trying to become someone like that, this book is a place to start.
 
 ---
 
