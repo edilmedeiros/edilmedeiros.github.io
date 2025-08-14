@@ -12,6 +12,7 @@ Click any title below to read commentary.
 - [Harold Abelson and Gerald Jay Sussman - *Structure and Interpretation of Computer Programs* (SICP)](#sicp)
 - [Charles Petzold — *The Annotated Turing*](#annotated-turing)
 - [Eric S. Raymond — *The Cathedral and the Bazaar*](#cathedral-bazaar)
+- [A. G. Sertillanges — *The Intellectual Life*](#sertillanges)
 
 ## Articles/Papers
 
@@ -351,6 +352,38 @@ And how can a supposedly disorganized mess of programmers working after hours �
 
 Read this to think about the **sociology of software**.
 Because if these people ever stop doing what they do, we may well regress into the digital stone age.
+
+### A. G. Sertillanges — *The Intellectual Life* {#sertillanges}
+
+"Should I do a master's? A PhD? Or something else?"
+
+That’s one of the most common questions I hear from young people with bright minds and a growing itch they can’t quite name.
+I often answer with something like:
+*“It depends on who you want to become.”*
+
+That's a truly difficult question, maybe the ultimate question of life.
+Because what many of them are truly seeking is not a diploma, but a life.
+A way of living.
+They’re yearning for the intellectual life — they just don’t have the words for it yet.
+
+This book gives them those words.
+
+Written in the early 20th century by a French Dominican priest, *The Intellectual Life* is a profound guide to pursuing truth through study, reflection, and discipline.
+It speaks to anyone drawn to a life of the mind — whether inside the university or far beyond it.
+
+Yes, having a good advisor can help.
+Yes, formal institutions can offer structure.
+But the real journey of intellectual growth is solitary, humble, and internal.
+No institution can give it to you — and none can take it away.
+
+If you’ve ever felt that hunger to go deeper — to read more, write better, think harder — this book is a quiet but powerful companion.
+
+And it aligns perfectly with the spirit of this reading list:
+It’s not about following trends.
+It’s about cultivating a deeper, slower kind of growth.
+The kind that makes you useful to others — not just because of what you can do, but because of how you think, and who you are becoming.
+
+---
 
 ### John Backus — *Can Programming Be Liberated from the von Neumann Style?* {#backus-liberated}
 [https://doi.org/10.1145/359576.359579](https://doi.org/10.1145/359576.359579)
