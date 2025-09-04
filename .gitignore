@@ -5,3 +5,27 @@ Gemfile.lock
 .DS_Store
 /.direnv/
 /.gem/
+
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Ruby/Bundler
+.gem/
+.bundle/
+vendor/bundle/
+
+# Node / Slidev
+node_modules/
+.pnpm/
+**/.vite/
+**/.cache/
+**/.slidev/cache/
+**/dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*

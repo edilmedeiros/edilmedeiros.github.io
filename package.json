@@ -1,0 +1,8 @@
+{
+    "name": "edil-slides",
+    "private": true,
+    "devDependencies": {
+        "@slidev/cli": "^52.1.0",
+        "@slidev/theme-default": "^0.25.0"
+    }
+}

@@ -5,7 +5,6 @@
 
 # See also: https://github.com/orgs/community/discussions/152695
 
-# Sample workflow for building and deploying a Jekyll site to GitHub Pages
 name: Deploy Jekyll site to Pages
 
 on:
@@ -35,23 +34,53 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: '3.3' # Not needed with a .ruby-version file
-          bundler-cache: true # runs 'bundle install' and caches installed gems automatically
-          cache-version: 0 # Increment this number if you need to re-download cached gems
+
+      # Install nix
+      - name: Install nix
+        uses: DeterminateSystems/nix-installer-action@v14
+
+      # Caching for faster builds
+      - name: Magic Nix Cache
+        uses: DeterminateSystems/magic-nix-cache-action@v6
+
+      # Jekyll build using devshell
+      - name: Build Jekyll
+        run: |
+          nix develop --command bash -lc '
+            bundle install
+            bundle exec jekyll build
+          '
+
+      # Slidev build(s) into _site/slides/<deck>
+      - name: Build Slidev decks
+        run: |
+          nix develop --command bash -lc '
+            chmod +x scripts/build-decks.sh
+            ./scripts/build-decks.sh
+          '
+
+      # - name: Setup Ruby
+        # uses: ruby/setup-ruby@v1
+        # with:
+          # ruby-version: '3.3' # Not needed with a .ruby-version file
+          # bundler-cache: true # runs 'bundle install' and caches installed gems automatically
+          # cache-version: 0 # Increment this number if you need to re-download cached gems
+
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v4
-      - name: Build with Jekyll
+
+      # - name: Build with Jekyll
         # Outputs to the './_site' directory by default
-        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
-        env:
-          JEKYLL_ENV: production
+        # run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
+        # env:
+          # JEKYLL_ENV: production
+
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
 
   # Deployment job
   deploy:
